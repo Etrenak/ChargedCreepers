@@ -1,0 +1,9 @@
+name: ChargedCreepers
+version: 1.0.0
+author: Etrenak
+main: fr.etrenak.chargedcreepers.ChargedCreepers
+prefix: CG
+
+commands:
+ chargedcreepersreload:
+  aliase: /cgreload

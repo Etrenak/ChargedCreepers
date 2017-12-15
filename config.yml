@@ -1,0 +1,9 @@
+#Le pourcentage de chance que lorsque qu'un creeper apparaisse, il soit chargé
+spawn_chance: 56.2942642574
+
+#Le nombre de tnt donné lors de la mort d'un creeper chargé, si il drop (Voir plus bas)
+tnt_drop_amount: 2
+
+#Le pourcentage de chance que lorsque qu'un creeper chargé meure, il drop le nombre de tnt défini plus haut
+tnt_drop_chance: 63.96526554
+
